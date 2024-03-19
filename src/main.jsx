@@ -5,6 +5,5 @@ import './index.css'
 import Task from './Task'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-    // <App />
     <Task/>
 )

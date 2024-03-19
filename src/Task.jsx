@@ -12,7 +12,6 @@ function Task() {
     const [answer, setAnswer] = useState([]);
     const [getId, setId] = useState(null);
 
-    // console.log(answer);
 
     const setting = (getAns) => {
         if (answer.includes(getAns)) {
